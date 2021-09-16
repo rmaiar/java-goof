@@ -45,8 +45,4 @@ TODO
 This repo is available released under the [MIT License](http://opensource.org/licenses/mit-license.php/).
 # java-goof
 
-Modificado por Renato Maia - Autotrac
-
-Nova Feature - 15/09
-
-Final Mesmo
+Modificado por Renato Maia - The End
