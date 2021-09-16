@@ -46,4 +46,5 @@ This repo is available released under the [MIT License](http://opensource.org/li
 # java-goof
 
 Modificado por Renato Maia - Autotrac
-Modificado no github.com
+
+Final.
